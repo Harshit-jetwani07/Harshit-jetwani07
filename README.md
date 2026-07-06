@@ -99,13 +99,13 @@ It is built to present projects clearly, keep navigation simple and give visitor
 
 ---
 
-## GitHub Stats
+## Profile Snapshot
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-jetwani07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-jetwani07&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshit-jetwani07&theme=tokyonight&hide_border=true)
+- GitHub: [Harshit-jetwani07](https://github.com/Harshit-jetwani07)
+- Portfolio: [harshit-jetwani07.github.io/Portfolio](https://harshit-jetwani07.github.io/Portfolio/)
+- Main Stack: React, Node.js, Express, MongoDB
+- Project Interests: LMS platforms, AI tools, dashboards, data insights and automation
+- Current Goal: Building stronger full-stack projects with cleaner UI, better APIs and proper documentation
 
 ---
 
