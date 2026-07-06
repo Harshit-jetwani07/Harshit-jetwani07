@@ -49,12 +49,14 @@ My focus is on creating real-world projects with useful features, polished UI, c
 
 ## Featured Projects
 
-### LMS Platform
+### Learners Pro
 
 A full-stack learning management system built around a real online-learning flow.  
 It includes course browsing, course details, video-based learning experience, backend APIs and payment integration using Razorpay. The project helped me work on frontend-backend connection, API structure, routing, media handling and a product-style user experience.
 
 **Tech:** React, Node.js, Express, MongoDB, Razorpay
+
+**Live:** [learner-s-pro.vercel.app](https://learner-s-pro.vercel.app/)
 
 **Focus Areas:** Full-stack architecture, REST APIs, payment flow, responsive UI, learning platform experience
 
@@ -65,6 +67,8 @@ InsightHive represents my interest in combining web development with intelligent
 
 **Tech:** AI integration, JavaScript / Python, data processing, web UI
 
+**Live:** [insighthive-1qtt.onrender.com](https://insighthive-1qtt.onrender.com/)
+
 **Focus Areas:** AI-assisted insights, data interpretation, user-friendly output, product thinking
 
 ### AI Business Analyst
@@ -73,6 +77,8 @@ A business-focused analysis tool for generating insights, charts and reports fro
 The project is designed to make raw data easier to understand through visualizations and summarized observations. It helped me improve my understanding of data workflows, reporting, chart generation and business-friendly presentation.
 
 **Tech:** Python, Pandas, Data Visualization
+
+**Live:** [ai-business-analyst-harsh07.streamlit.app](https://ai-business-analyst-harsh07.streamlit.app/)
 
 **Focus Areas:** Data analysis, chart generation, reporting, insight extraction
 
