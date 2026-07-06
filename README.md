@@ -49,47 +49,53 @@ My focus is on creating real-world projects with useful features, polished UI, c
 
 ## Featured Projects
 
-### Learners Pro
+### **Learners Pro**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://learner-s-pro.vercel.app/)
 
 A full-stack learning management system built around a real online-learning flow.  
 It includes course browsing, course details, video-based learning experience, backend APIs and payment integration using Razorpay. The project helped me work on frontend-backend connection, API structure, routing, media handling and a product-style user experience.
 
 **Tech:** React, Node.js, Express, MongoDB, Razorpay
 
-**Live:** [learner-s-pro.vercel.app](https://learner-s-pro.vercel.app/)
-
 **Focus Areas:** Full-stack architecture, REST APIs, payment flow, responsive UI, learning platform experience
 
-### InsightHive
+---
+
+### **InsightHive**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Project-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://insighthive-1qtt.onrender.com/)
 
 An AI-powered insights and analysis project focused on turning information into useful, readable output.  
 InsightHive represents my interest in combining web development with intelligent features, clean presentation and practical business-style problem solving.
 
 **Tech:** AI integration, JavaScript / Python, data processing, web UI
 
-**Live:** [insighthive-1qtt.onrender.com](https://insighthive-1qtt.onrender.com/)
-
 **Focus Areas:** AI-assisted insights, data interpretation, user-friendly output, product thinking
 
-### AI Business Analyst
+---
+
+### **AI Business Analyst**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Project-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-business-analyst-harsh07.streamlit.app/)
 
 A business-focused analysis tool for generating insights, charts and reports from data.  
 The project is designed to make raw data easier to understand through visualizations and summarized observations. It helped me improve my understanding of data workflows, reporting, chart generation and business-friendly presentation.
 
 **Tech:** Python, Pandas, Data Visualization
 
-**Live:** [ai-business-analyst-harsh07.streamlit.app](https://ai-business-analyst-harsh07.streamlit.app/)
-
 **Focus Areas:** Data analysis, chart generation, reporting, insight extraction
 
-### Portfolio Website
+---
+
+### **Portfolio Website**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://harshit-jetwani07.github.io/Portfolio/)
 
 A responsive personal portfolio website for showcasing my work, skills and contact details.  
 It is built to present projects clearly, keep navigation simple and give visitors a quick understanding of what I build as a developer.
 
 **Tech:** HTML, CSS, JavaScript / React
-
-**Live:** [harshit-jetwani07.github.io/Portfolio](https://harshit-jetwani07.github.io/Portfolio/)
 
 **Focus Areas:** Responsive design, project presentation, clean UI, personal branding
 
