@@ -1,17 +1,17 @@
 # Hi, I'm Harshit Jetwani
 
-### MERN Stack Developer | Building LMS, SaaS and AI-powered web apps
+### MERN Stack Developer | Building LMS, AI-powered tools and practical web applications
 
 I build clean, responsive and practical web applications with React, Node.js, Express and MongoDB.  
-My focus is on creating real-world projects with useful features, polished UI and production-ready structure.
+My focus is on creating real-world projects with useful features, polished UI, clean APIs and production-ready structure.
 
 ---
 
 ## About Me
 
-- Building full-stack web apps, LMS platforms, SaaS-style dashboards and AI-powered tools
+- Building full-stack web apps, LMS platforms, portfolio experiences and AI-powered tools
 - Working with React, Node.js, Express, MongoDB and modern frontend workflows
-- Interested in dashboards, automation tools, payment integrations and scalable backend APIs
+- Interested in dashboards, automation tools, payment integrations, data insights and scalable backend APIs
 - Open to internships, freelance projects and collaboration opportunities
 - Currently improving TypeScript, Next.js, system design and deployment skills
 
@@ -51,27 +51,41 @@ My focus is on creating real-world projects with useful features, polished UI an
 
 ### LMS Platform
 
-A full-stack learning management system with course browsing, learning flow, video experience and payment integration.
+A full-stack learning management system built around a real online-learning flow.  
+It includes course browsing, course details, video-based learning experience, backend APIs and payment integration using Razorpay. The project helped me work on frontend-backend connection, API structure, routing, media handling and a product-style user experience.
 
 **Tech:** React, Node.js, Express, MongoDB, Razorpay
 
+**Focus Areas:** Full-stack architecture, REST APIs, payment flow, responsive UI, learning platform experience
+
+### InsightHive
+
+An AI-powered insights and analysis project focused on turning information into useful, readable output.  
+InsightHive represents my interest in combining web development with intelligent features, clean presentation and practical business-style problem solving.
+
+**Tech:** AI integration, JavaScript / Python, data processing, web UI
+
+**Focus Areas:** AI-assisted insights, data interpretation, user-friendly output, product thinking
+
 ### AI Business Analyst
 
-A business-focused data analysis tool for generating insights, charts and reports from uploaded data.
+A business-focused analysis tool for generating insights, charts and reports from data.  
+The project is designed to make raw data easier to understand through visualizations and summarized observations. It helped me improve my understanding of data workflows, reporting, chart generation and business-friendly presentation.
 
 **Tech:** Python, Pandas, Data Visualization
 
+**Focus Areas:** Data analysis, chart generation, reporting, insight extraction
+
 ### Portfolio Website
 
-A responsive personal portfolio website to showcase projects, skills and contact details.
+A responsive personal portfolio website for showcasing my work, skills and contact details.  
+It is built to present projects clearly, keep navigation simple and give visitors a quick understanding of what I build as a developer.
 
 **Tech:** HTML, CSS, JavaScript / React
 
-### SaaS Dashboard
+**Live:** [harshit-jetwani07.github.io/Portfolio](https://harshit-jetwani07.github.io/Portfolio/)
 
-A modern dashboard interface for managing app workflows, users, reports and business data.
-
-**Tech:** React, Tailwind CSS, Node.js
+**Focus Areas:** Responsive design, project presentation, clean UI, personal branding
 
 ---
 
@@ -108,9 +122,9 @@ A modern dashboard interface for managing app workflows, users, reports and busi
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--jetwani07-181717?style=for-the-badge&logo=github)](https://github.com/Harshit-jetwani07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-jetwani-461763320/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-jetwani07.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitjetwani2024@gmail.com)
 
 ---
 
